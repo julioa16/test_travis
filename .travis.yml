@@ -1,4 +1,4 @@
 language: csharp
 
 script:
-- dotnet HelloWorld/Program.cs
+- dotnet HelloWorld.sln
